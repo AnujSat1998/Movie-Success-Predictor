@@ -1,0 +1,14 @@
+# Server
+1. Open cmd in path 'Codebase\Server>'
+2. Run below command
+pipenv install
+3. Start virtual env
+pipenv shell
+4. Start the server
+py server.py or python server.py
+
+
+# UI
+1. Open cmd in path 'Codebase\UI'
+2. Open index.html
+3. Enter credentials to login to the app
